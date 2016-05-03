@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musaesivehistori06hero_0004.png"; bbox 0 0 1718 2919; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 445 1353 1277 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 445 1353 1277 1566">
+     <span class='ocr_line' id='line_1_1' title="bbox 445 1353 1277 1410; baseline 0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 445 1353 664 1410; x_wconf 65' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 688 1353 745 1410; x_wconf 84' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 765 1353 844 1398; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 870 1353 1063 1398; x_wconf 69' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1083 1353 1277 1398; x_wconf 73' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 530 1431 1188 1488; baseline 0 -13"><span class='ocrx_word' id='word_1_6' title='bbox 530 1431 568 1475; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 591 1432 718 1476; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 738 1431 840 1476; x_wconf 73' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 862 1431 1052 1488; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1074 1431 1188 1476; x_wconf 79' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 593 1509 1129 1566; baseline 0.002 -13"><span class='ocrx_word' id='word_1_11' title='bbox 593 1509 847 1566; x_wconf 78' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 868 1509 914 1554; x_wconf 79' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 934 1509 1129 1554; x_wconf 79' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 154 2732 1567 2789">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 154 2732 1567 2789">
+     <span class='ocr_line' id='line_1_4' title="bbox 154 2732 1567 2789; baseline 0.001 -13"><span class='ocrx_word' id='word_1_14' title='bbox 154 2732 1567 2789; x_wconf 66' lang='lat' dir='ltr'>http:llwwwarchive.0r9ldetailslmusaesivehistoriOGhero</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
